@@ -68,7 +68,7 @@ python3 filename.py
 
 ## **📌 Explore More**  
 
-🔗 **GitHub Profile:** [Ashutosh Gunjal]([https://github.com/yourusername](https://github.com/ashutosh-gunjal-001))  
+🔗 **GitHub Profile:** [Ashutosh Gunjal](https://github.com/ashutosh-gunjal-001)  
 🌍 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
 
 This repository is part of my journey into **Operating Systems and System-Level Programming**. Feel free to **explore more of my projects** and **connect with me**!  
